@@ -1,4 +1,4 @@
-# Hey, I'm [Ton Prénom] 👋
+# Hey, I'm Raphaël 👋
 
 **Unity developer specializing in real-time 3D, AR/XR, and sports tech.**
 
@@ -43,5 +43,5 @@ For the past 4 years, I've been building interactive 3D experiences deployed at 
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ton-profil)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raphael-seguin)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphael.seguin.97@gmail.com)
