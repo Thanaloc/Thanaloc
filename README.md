@@ -25,6 +25,8 @@ For the past 4 years, I've been building interactive 3D experiences deployed at 
 
 | Project | Stack | Status |
 | :--- | :---: | :---: |
+| **Tidebound** <br> *Sea Of Thieves inspired contemplation game, procedural ocean generation with custom pipeline, FPS, SinglePlayer.* | Unity, C# | 🚧 WIP |
+| **FPS Character Controller** <br> *Personnal custom CharacterController for my FPS Games, created thanks to various personnal projects, used as a Unity package* | Unity, C# |✅ Available |
 | **Unity Custom Buttons** <br> *Advanced UI buttons with hover, ripple, toggle & hold effects.* | Unity, C#, UI Toolkit | 📦 Asset Store soon |
 | **TPS Comical Horror Multiplayer** <br> *Lethal-compagny inspired project, with destruction mechanics, proximity chat & multiplayer* | Unity, C# | 🚧 WIP |
 | **FPS Stealth Game** <br> *Hitman-inspired prototype, learning game state management.* | Unity, C# | 🚧 WIP |
